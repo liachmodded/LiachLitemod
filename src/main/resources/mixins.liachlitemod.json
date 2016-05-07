@@ -2,6 +2,7 @@
     "required": true,
     "minVersion": "0.5.3",
     "package": "com.github.liachmodded.liachlitemod.mixin",
+    "plugin" : "com.github.liachmodded.liachlitemod.mixin.LiachMixinPlugin",
     "refmap": "mixins.liachlitemod.refmap.json",
     "mixins": [
         "client.render.MixinRenderGlobal"

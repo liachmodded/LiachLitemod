@@ -38,8 +38,8 @@ archivesBaseName = rootProject.name + '-' + project.name
 
 defaultTasks 'licenseFormat', 'clean', 'setupCiWorkspace', 'build'
 
-//sourceCompatibility = '1.8'
-//targetCompatibility = '1.8'
+sourceCompatibility = '1.8'
+targetCompatibility = '1.8'
 
 minecraft {
     version = "1.9"
