@@ -1,0 +1,9 @@
+{
+    "name": "liachlitemod",
+    "version": 0.1,
+    "mcversion": "1.9",
+    "author": "liach",
+    "mixinConfigs": [
+        "mixins.liachlitemod.json"
+    ]
+}

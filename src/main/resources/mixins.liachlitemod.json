@@ -1,0 +1,9 @@
+{
+    "required": true,
+    "minVersion": "0.5.3",
+    "package": "com.github.liachmodded.liachlitemod.mixin",
+    "refmap": "mixins.liachlitemod.refmap.json",
+    "mixins": [
+        "client.render.MixinRenderGlobal"
+    ]
+}
